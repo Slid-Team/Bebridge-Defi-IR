@@ -2,6 +2,8 @@
 
 스테이블코인 기반 DeFi 예치 플랫폼 **Bebridge**의 IR(Investor Relations) 프레젠테이션 웹사이트입니다.
 
+**웹사이트:** https://slid-team.github.io/Bebridge-Defi-IR/
+
 ## 핵심 논리
 
 | 구분 | 내용 |
@@ -26,20 +28,6 @@
 8. **Solution** - 달러 예금 포지셔닝 + 전용 지갑 앱
 9. **Business Model** - 단계별 시장 확장 및 수익 모델
 10. **Vision** - 글로벌 핀테크 유니콘으로의 로드맵
-
-## 기술 스택
-
-- HTML5 / CSS3
-- [Chart.js](https://www.chartjs.org/) - 데이터 시각화
-- [Noto Sans KR](https://fonts.google.com/noto/specimen/Noto+Sans+KR) - 한글 폰트
-
-## 배포
-
-GitHub Pages를 통해 배포할 수 있습니다:
-
-1. Repository Settings → Pages
-2. Source: `main` branch
-3. Save
 
 ## 데이터 출처
 
